@@ -1,0 +1,44 @@
+#err{
+	display: none;
+}
+
+ul li{
+	cursor: pointer;
+}
+
+.pro_tab{
+	position: relative;
+	margin:0 auto;
+	width: 96%;
+	padding: 0.2rem;
+
+}
+
+.pro_tab > .contact{
+	position: relative;
+	margin-top: 1rem;
+}
+
+.pro_tab > .sec{
+	position: relative;
+	margin-top: 4rem !important;
+}
+
+.mod_but{
+	margin-right: 0.5rem;
+
+}
+
+
+.drange{
+	display: none;
+}
+
+.l-drange{
+	cursor: pointer;
+}
+
+#resu{
+	position: relative;
+	overflow: auto;
+}
